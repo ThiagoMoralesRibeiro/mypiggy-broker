@@ -1,0 +1,3 @@
+[submodule "broker-frontend"]
+	path = broker-frontend
+	url = git@github.com:ThiagoMoralesRibeiro/mypiggy-broker-frontend.git
