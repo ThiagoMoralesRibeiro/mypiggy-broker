@@ -1,3 +1,8 @@
 [submodule "broker-frontend"]
 	path = broker-frontend
 	url = git@github.com:ThiagoMoralesRibeiro/mypiggy-broker-frontend.git
+
+[submodule "nestjs-api"]
+	path = nestjs-api
+	url = git@github.com:ThiagoMoralesRibeiro/myPiggy-broker-nestJS.git
+
